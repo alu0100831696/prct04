@@ -1,2 +1,5 @@
 ¿Qué es rvm (Ruby Version Manager )?
 Es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de ruby de intérpretes de los conjuntos de gemas.
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
+Con el intérprete interactivo la ejecución del programa acaba al interpretar la línea de pry. Con PRY se muestra el código y el punto de parada de la lína pry y abre la consola. Esta consola carga las variables y definiciones del archivo justo hasta la línea de pry. En ella podemos utilizar estas variables e incluso modificarlas en tiempo de ejecución y crear nuevos métodos. Cuando salimos de PRY el programa seguirá interpretándose desde donde se dejó pero con las nuevas modificaciones.
+
