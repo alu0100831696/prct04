@@ -1,0 +1,2 @@
+¿Qué es rvm (Ruby Version Manager )?
+Es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de ruby de intérpretes de los conjuntos de gemas.
